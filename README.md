@@ -29,6 +29,9 @@
 * animation-timing-function - specifies the speed curve of an animation.
     * animation-timing-function: ease-in-out;
     * ease-in-out - animation to start and end at a slower pace, but move more quickly in the middle of the cycle.
+* :nth-of-type - The :nth-of-type(n) selector matches every element that is the nth child, of the same type (tag name), of its parent.
+    * syntax - :nth-of-type(number) { css declarations; }
+
 
 ## Production Link
 
